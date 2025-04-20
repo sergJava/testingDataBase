@@ -2,7 +2,7 @@ package org.skypro.testindDataBase.service;
 
 import org.skypro.testindDataBase.model.Position;
 import org.springframework.stereotype.Service;
-import repository.PositionRepository;
+import org.skypro.testindDataBase.repository.PositionRepository;
 
 import java.util.Collection;
 
